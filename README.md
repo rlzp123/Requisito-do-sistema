@@ -1,4 +1,4 @@
-📄  ## Documento de requisitos do sistema
+📄  Documento de requisitos do sistema
 
 Este repositório apresenta a proposta inicial do sistema e organiza as informações que vão orientar seu desenvolvimento.
 
