@@ -1,12 +1,3 @@
-# Documento de Requisitos — Industrial Control Tower
-
-**Versão:** 1.0  
-**Status:** Em planejamento  
-**Tipo de projeto:** Desenvolvimento de software  
-**Ambiente inicial:** Simulação industrial com dados fictícios
-
----
-
 ## 1. Apresentação
 
 O Industrial Control Tower é uma plataforma web proposta para acompanhar e integrar informações de diferentes áreas de uma operação industrial. A ideia é reunir dados de pedidos, estoque, produção e logística em um só lugar, facilitando a identificação de problemas e o acompanhamento dos resultados.
